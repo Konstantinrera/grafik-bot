@@ -7,7 +7,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 # === Настройки ===
 TELEGRAM_TOKEN = "8483629759:AAHn4v5OzflQQ57qV1gblW4XMa1uACzPAFI"
-SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/14j3toMy4boNzDxA1eCe2fuxpsrFN8PraM2oHBgCowy8/edit"
+SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/14j3toMy4boNzDxA1eCe2fuxpsrFN8PraM2oHBgCowy8/edit?usp=sharing"
 
 # === Авторизация Google Sheets ===
 scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
